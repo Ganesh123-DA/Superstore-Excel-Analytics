@@ -63,7 +63,7 @@ Key preparation steps:
 ![Key Business Insights](Insights.png)
 
 ### Analysis & Pivot Table
-![Analysis](Analysis.png)
+![Analysis & Pivot Table](Analysis.png)
 
 ## 💡 Key Business Insights
 - Sales and profit increased overall from 2011 to 2014.
@@ -74,9 +74,9 @@ Key preparation steps:
 - Top 10 customers contribute a significant share of total sales.
 - Standard Class has the highest average delivery time.
 - Sales show seasonal fluctuations, with stronger activity in later months.
-
 ## 📁 Project Files
-- [Excel Dashboard](./Superstore_Dashboard.xlsx)
-- Dashboard Screenshot
-- Key Business Insights Screenshot
-- Analysis & Pivot Table Screenshot
+
+- [Excel Dashboard](Superstore_Dashboard.xlsx)
+- [Dashboard Screenshot](Dashboard.png)
+- [Key Business Insights](Insights.png)
+- [Analysis & Pivot Table](Analysis.png)

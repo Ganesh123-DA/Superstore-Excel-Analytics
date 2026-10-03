@@ -57,7 +57,7 @@ Key preparation steps:
 ## 📷 Dashboard Preview
 
 ### Interactive Dashboard
-![Superstore Sales & Profit Dashboard](Dashbaord.png)
+![Superstore Sales & Profit Dashboard](Dashboard.png)
 
 ### Key Business Insights
 ![Key Business Insights](Insights.png)
